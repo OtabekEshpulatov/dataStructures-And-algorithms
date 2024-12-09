@@ -1,6 +1,6 @@
 package algorithms;
 
-public class EuclidGCD {
+public class EuclideanGCD {
 
     public static void main(String[] args) {
         int gcd = gcd(100, 120);

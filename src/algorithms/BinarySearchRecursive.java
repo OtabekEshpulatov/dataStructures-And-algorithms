@@ -1,6 +1,6 @@
 package algorithms;
 
-public class BinarySearchrRecursive {
+public class BinarySearchRecursive {
     public static void main(String... args) {
 
         int[] arr = {1, 2, 8, 9, 16, 19, 21, 24, 67};
